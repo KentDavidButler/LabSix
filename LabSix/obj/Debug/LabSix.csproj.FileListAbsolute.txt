@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\GrandCircus\LabSix\LabSix\bin\Debug\LabSix.exe.config
+C:\Users\Administrator\source\repos\GrandCircus\LabSix\LabSix\bin\Debug\LabSix.exe
+C:\Users\Administrator\source\repos\GrandCircus\LabSix\LabSix\bin\Debug\LabSix.pdb
+C:\Users\Administrator\source\repos\GrandCircus\LabSix\LabSix\obj\Debug\LabSix.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\GrandCircus\LabSix\LabSix\obj\Debug\LabSix.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GrandCircus\LabSix\LabSix\obj\Debug\LabSix.exe
+C:\Users\Administrator\source\repos\GrandCircus\LabSix\LabSix\obj\Debug\LabSix.pdb
